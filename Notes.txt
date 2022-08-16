@@ -1,0 +1,9 @@
+Video : 
+Section 3 : Architecture API : 21. Introduction
+
+
+to add to  gitignore :
+obj
+bin
+appsettings.json
+*.db
