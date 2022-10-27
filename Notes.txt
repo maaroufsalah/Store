@@ -1,9 +1,29 @@
 Video : 
-Section 3 : Architecture API : 21. Introduction
+=>	   Section 3 : 
+	=> Architecture API : 
+	=> 30. Adding the code to get the product brands and types
 
 
-to add to  gitignore :
-obj
-bin
-appsettings.json
-*.db
+<>
+
+
+
+=> Code entity framework migrations  :
+--Create migration :
+dotnet ef migrations add InitialCreate -p Infrastructure -s SkinetAPI -o Data/Migrations
+--Drop databases :
+dotnet ef database drop -p Infrastructure -s SkinetAPI
+--Remove old migrations :
+dotnet ef migrations remove -p Infrastructure -s SkinetAPI 
+
+
+=> Creation de la classe ProductConfiguration : 
+	class ProductConfiguration : IEntityTypeConfiguration<Product>
+	Permet de configurer les contraintes de la table sur la base de données pour la migration.
+
+
+
+
+
+
+

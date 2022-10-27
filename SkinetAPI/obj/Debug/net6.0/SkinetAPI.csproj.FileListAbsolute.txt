@@ -54,3 +54,5 @@ D:\WORK\Projects\Udemy Projects\Learn to build an e-commerce app with .Net Core 
 D:\WORK\Projects\Udemy Projects\Learn to build an e-commerce app with .Net Core and Angular\Skinet\SkinetAPI\SkinetAPI\bin\Debug\net6.0\Infrastructure.dll
 D:\WORK\Projects\Udemy Projects\Learn to build an e-commerce app with .Net Core and Angular\Skinet\SkinetAPI\SkinetAPI\bin\Debug\net6.0\Infrastructure.pdb
 D:\WORK\Projects\Udemy Projects\Learn to build an e-commerce app with .Net Core and Angular\Skinet\SkinetAPI\SkinetAPI\bin\Debug\net6.0\Core.pdb
+D:\WORK\Projects\Udemy Projects\Learn to build an e-commerce app with .Net Core and Angular\Skinet\SkinetAPI\SkinetAPI\bin\Debug\net6.0\Humanizer.dll
+D:\WORK\Projects\Udemy Projects\Learn to build an e-commerce app with .Net Core and Angular\Skinet\SkinetAPI\SkinetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
